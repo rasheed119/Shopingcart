@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import {Button} from 'react-bootstrap';
+import Col from 'react-bootstrap/Col';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Content({object, count, setcount}) {
@@ -16,7 +17,7 @@ function Content({object, count, setcount}) {
   }
 
   return (
-    <div className='col mb-5'>
+    
     <div class="card h-100">
           <img className="card-img-top p-3" src={object.product_image} alt="..." />
           <div className="card-body p-4">
@@ -36,7 +37,7 @@ function Content({object, count, setcount}) {
                 </div>
           </div>
       </div>
-  </div>
+      
   )
 }
 

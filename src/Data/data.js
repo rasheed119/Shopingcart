@@ -1,7 +1,7 @@
 const phone_data=[
   {
     product_image : "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg",
-    product_name : "Apple iPhone 14 Pro Max",
+    product_name : "iPhone 14 Pro Max",
     product_price : "₹1,27,999",
     product_rating : "4.6 out of 5"
   },
@@ -25,7 +25,7 @@ const phone_data=[
   },
   {
     product_image : "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-1.jpg",
-    product_name : "Xiaomi Redmi Note 12 Pro",
+    product_name : "Redmi Note 12 Pro",
     product_price : "₹24,800",
     product_rating : "4.0 out of 5"
   },
@@ -43,7 +43,7 @@ const phone_data=[
   },
   {
     product_image : "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-7-ultimate-1.jpg",
-    product_name : "Asus ROG Phone 7 Ultimate",
+    product_name : "ROG Phone 7 Ultimate",
     product_price : "₹1,00,000",
     product_rating : "4.6 out of 5"
   }
